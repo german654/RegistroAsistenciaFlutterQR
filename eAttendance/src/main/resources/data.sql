@@ -1,0 +1,2 @@
+INSERT INTO `site_user` (`email`, `enrollment`, `is_logged_in`, `password`, `role`, `status`, `user_name`) VALUES
+('admin@gmail.com', NULL, NULL, '$2a$12$v02V6fSbTxdGpo8oA8K/4urhqViGpHhoyEwo9Chba18Ez0CXgw53K', 0, b'1', 'admin');
